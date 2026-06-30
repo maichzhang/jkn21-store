@@ -74,11 +74,7 @@ npm start
 
 ## 🔑 Akun Default
 
-Setelah backend pertama kali jalan, akun admin otomatis dibuat:
 
-| Role  | Email             | Password |
-|-------|-------------------|----------|
-| Admin | admin@jkn21.com   | admin123 |
 
 ---
 
